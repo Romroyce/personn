@@ -12,7 +12,7 @@ class Person
 
   #setter
   def nom=(un_nom)
-    @nom=un_nom
+    @nom=un_nomdezs
   end
 
   #getter
